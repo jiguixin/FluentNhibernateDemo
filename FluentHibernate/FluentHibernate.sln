@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentNhibernateTest", "FluentNhibernateTest.csproj", "{506A783A-9A65-4892-AEDB-8BEDD04AA100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityMap", "..\EntityMap\EntityMap.csproj", "{5AFC769E-5D99-49FE-AC28-F0ECBAD25438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "..\Entity\Entity.csproj", "{6BA04EDB-B4DB-4F3E-928A-6468A4B5BA5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{506A783A-9A65-4892-AEDB-8BEDD04AA100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506A783A-9A65-4892-AEDB-8BEDD04AA100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506A783A-9A65-4892-AEDB-8BEDD04AA100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506A783A-9A65-4892-AEDB-8BEDD04AA100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AFC769E-5D99-49FE-AC28-F0ECBAD25438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AFC769E-5D99-49FE-AC28-F0ECBAD25438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AFC769E-5D99-49FE-AC28-F0ECBAD25438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AFC769E-5D99-49FE-AC28-F0ECBAD25438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA04EDB-B4DB-4F3E-928A-6468A4B5BA5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA04EDB-B4DB-4F3E-928A-6468A4B5BA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA04EDB-B4DB-4F3E-928A-6468A4B5BA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA04EDB-B4DB-4F3E-928A-6468A4B5BA5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
